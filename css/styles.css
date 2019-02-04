@@ -1,0 +1,31 @@
+body {
+    background: navy;
+    font-family: 'Calligraffitti', cursive;
+}
+
+.header {
+    width: 1000px;
+
+}
+
+.menu {
+    text-align: center;
+    background: black;
+    color: navy;
+}
+
+.main {
+    text-align: center;
+    background: black;
+    color: blue;
+}
+
+.footer {
+    text-align: center;
+    color: antiquewhite;
+}
+
+ul {
+    list-style: none;
+    font-size: 30px;
+}
